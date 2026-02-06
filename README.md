@@ -35,7 +35,7 @@ If you do not yet have Orc8r and NMS running, the following guide is recommended
  
 ### Official Reference Documentation
 
-* Orc8r / NMS (Docker): [https://magma.github.io/magma/docs/lte/deploy_install_docker](https://magma.github.io/magma/docs/lte/deploy_install_docker)
+* Magma AGW (Docker): [https://magma.github.io/magma/docs/lte/deploy_install_docker](https://magma.github.io/magma/docs/lte/deploy_install_docker)
 * Magma prerequisites: [https://magma.github.io/magma/docs/basics/prerequisites](https://magma.github.io/magma/docs/basics/prerequisites)
 
 ---
